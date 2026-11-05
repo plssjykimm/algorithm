@@ -33,3 +33,6 @@ node --test
 
 상세 설계와 완료 조건은 [PLAN.md](PLAN.md)를 참고하세요.
 
+```powershell
+http://127.0.0.1:8080
+```
